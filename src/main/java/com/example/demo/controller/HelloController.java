@@ -12,6 +12,6 @@ public class HelloController {
 	
 	  @RequestMapping("/hello")
 		public String hello(Locale locale, Model model) {
-			return "Hello World";
+			return "Hello World 2019.8.14";
 		}
 }
